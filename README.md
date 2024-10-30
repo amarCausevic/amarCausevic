@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a simple project called LUNCHIFY where idea is to present a working solution for company with own lunch station where user creates order with meals that are available for current data. Also kitchen chefs can add new meals and check orders that are being droped in by users.
+  - For frontend I am using swift framework for building application for IOS devices
+  - For backend logic I am using Java with Spring Boot framework for server services
+ 
+- 🌱 I’m currently learning full stack development of web-application
+- 👯 I’m looking to collaborate on everything and anything that is about web development and game development
+- 💬 Ask me about ...
+- 📫 How to reach me: via Github or LinkedIn profile that is seen on the profile

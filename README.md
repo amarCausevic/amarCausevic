@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   - For frontend I am using swift framework for building application for IOS devices
   - For backend logic I am using Java with Spring Boot framework for server services
 
- ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJoejdqaDBkbmdubTAyN2d3Yndldzc1bWQyd3VrMHNicGIwMmxvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCkbgKLdLWq3OCV8YM/giphy.mp4)
+ ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJoejdqaDBkbmdubTAyN2d3Yndldzc1bWQyd3VrMHNicGIwMmxvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCkbgKLdLWq3OCV8YM/giphy.mp4)
 
 - 🌱 I’m currently learning full stack development of web-application
 - 👯 I’m looking to collaborate on everything and anything that is about web development and game development

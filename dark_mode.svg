@@ -41,19 +41,20 @@ text, tspan {white-space: pre;}
 <tspan x="580" y="30">Amar Causevic</tspan>
 <tspan x="580" y="50">——————</tspan>
 <tspan x="580" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">macOS Sonoma, Windows 10</tspan>
-<tspan x="580" y="90" class="keyColor">Life Uptime</tspan>: <tspan class="valueColor">35 years and counting</tspan>
-<tspan x="580" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Slovenia</tspan><tspan class="commentColor"> #Bosnia</tspan>
+<tspan x="580" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">35 years and counting</tspan>
+<tspan x="580" y="110" class="keyColor">Database Relation</tspan>: <tspan class="valueColor">In love to my beautiful Ajla</tspan>
+<tspan x="580" y="130" class="keyColor">Host</tspan>: <tspan class="valueColor">Slovenia</tspan><tspan class="commentColor"> #Bosnia</tspan>
 <tspan x="580" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Favorite IntelliJ Community Edition, VS Code</tspan>
-<tspan x="580" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Typescript,</tspan>
-<tspan x="580" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, YAML, Markdown</tspan>
-<tspan x="580" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Slovenian, Bosnian, Italian</tspan>
-<tspan x="580" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Playstation 5</tspan>
-<tspan x="580" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Boxing</tspan>
-<tspan x="580" y="330" class="keyColor">Contact</tspan>:
-<tspan x="580" y="350">——————</tspan>
-<tspan x="580" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">amar.causevic01@gmail.com</tspan>
-<tspan x="580" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">https://www.linkedin.com/in/amar-causevic-996a75140</tspan>
-<tspan x="580" y="450" class="keyColor">GitHub Stats</tspan>:
+<tspan x="580" y="170" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Typescript,</tspan>
+<tspan x="580" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, YAML, Markdown</tspan>
+<tspan x="580" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Slovenian, Bosnian, Italian</tspan>
+<tspan x="580" y="230" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Playstation 5</tspan>
+<tspan x="580" y="250" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Boxing</tspan>
+<tspan x="580" y="270" class="keyColor">Contact</tspan>:
+<tspan x="580" y="290">——————</tspan>
+<tspan x="580" y="310" class="keyColor">Email</tspan>: <tspan class="valueColor">amar.causevic01@gmail.com</tspan>
+<tspan x="580" y="330" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">https://www.linkedin.com/in/amar-causevic-996a75140</tspan>
+<tspan x="580" y="350" class="keyColor">GitHub Stats</tspan>:
 </text>
 
 </svg>

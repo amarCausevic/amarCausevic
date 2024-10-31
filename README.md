@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/amarCausevic/amarCausevic">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarCausevic/amarCausevic/main/dark_mode.svg">
+    <img alt="Amar Causevic GitHub Profile README" src="https://raw.githubusercontent.com/amarCausevic/amarCausevic/main/light_mode.svg">
+  </picture>
+</a>
+
 - 🔭 I’m currently working on a simple project called LUNCHIFY where idea is to present a working solution for company with own lunch station where user creates order with meals that are available for current data. Also kitchen chefs can add new meals and check orders that are being droped in by users.
   - For frontend I am using swift framework for building application for IOS devices
   - For backend logic I am using Java with Spring Boot framework for server services

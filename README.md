@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on everything and anything that is about web development and game development
 - 💬 Ask me about ...
 - 📫 How to reach me: via Github or LinkedIn profile that is seen on the profile
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarCausevic&theme=radical&show_icons=true&hide_border=true&count_private=true)

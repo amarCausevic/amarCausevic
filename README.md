@@ -22,6 +22,13 @@ Here are some ideas to get you started:
   </picture>
 </a>
 
+|               |  |  |
+| :---------------: | :------: | :----: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarCausevic&theme=radical&show_icons=true&hide_border=true&count_private=true)| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarCausevic&theme=radical&show_icons=true&hide_border=true&layout=compact)| ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=amarCausevic&theme=radical&hide_border=true)
+
+
+
+
 - 🔭 I’m currently working on a simple project called LUNCHIFY where idea is to present a working solution for company with own lunch station where user creates order with meals that are available for current data. Also kitchen chefs can add new meals and check orders that are being droped in by users.
   - For frontend I am using swift framework for building application for IOS devices
   - For backend logic I am using Java with Spring Boot framework for server services
@@ -34,6 +41,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: via Github or LinkedIn profile that is seen on the profile
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarCausevic&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarCausevic&theme=radical&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=amarCausevic&theme=radical&hide_border=true)
+

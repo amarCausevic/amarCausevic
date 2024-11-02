@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 |               |  |  |
 | :---------------: | :------: | :----: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarCausevic&theme=radical&show_icons=true&hide_border=true&count_private=true)| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarCausevic&theme=radical&show_icons=true&hide_border=true&layout=compact)| ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=amarCausevic&theme=radical&hide_border=true)
+| ![Amar's GitHub stats](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api?username=amarCausevic&theme=radical&show_icons=true)| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarCausevic&theme=radical&show_icons=true&hide_border=true&layout=compact)| ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=amarCausevic&theme=radical&hide_border=true)
 
 
 

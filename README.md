@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 | [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=AC-TRONIUS-DEMO)](https://github.com/amarCausevic/AC-TRONIUS-DEMO)| [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=BDD-Rest-API-Test-Framework)](https://github.com/amarCausevic/BDD-Rest-API-Test-Framework ) |[![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=AC-bdd-python-pytest)](https://github.com/amarCausevic/AC-bdd-python-pytest)
 | [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=github-readme-stats)](https://github.com/amarCausevic/github-readme-stats)| |
 
-- 🔭 I’m currently working on a simple project called LUNCHIFY where idea is to present a working solution for company with own lunch station where user creates order with meals that are available for current data. Also kitchen chefs can add new meals and check orders that are being droped in by users.
+- 🔭 I’m currently working on a simple project called pixvara which I am going to bring more news later on
 For frontend I am using swift framework for building application for IOS devices
 For backend logic I am using Java with Spring Boot framework for server services
 - 🌱 I’m currently learning full stack development of web-application

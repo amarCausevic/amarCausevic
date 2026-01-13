@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 | [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=github-readme-stats)](https://github.com/amarCausevic/github-readme-stats)| |
 
 - 🔭 I’m currently working on a simple project called pixvara which I am going to bring more news later on
-For frontend I am using swift framework for building application for IOS devices
-For backend logic I am using Java with Spring Boot framework for server services
 - 🌱 I’m currently learning full stack development of web-application
 - 👯 I’m looking to collaborate on everything and anything that is about web development and game development
 - 📫 How to reach me: via Github or LinkedIn profile that is seen on the profile

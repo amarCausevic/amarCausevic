@@ -22,16 +22,6 @@ Here are some ideas to get you started:
   </picture>
 </a>
 
-|               |  |  |
-| :---------------: | :------: | :----: |
-| ![Amar's GitHub stats](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api?username=amarCausevic&theme=radical&show_icons=true)| ![Top Langs](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/top-langs/?username=amarCausevic&theme=radical&layout=donut)|[![GitHub Streak](https://streak-stats.demolab.com?user=amarCausevic&theme=radical)](https://git.io/streak-stats)
-
-|               |  |  |
-| :---------------: | :------: | :----: |
-| [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=be-ios-lunchify)](https://github.com/amarCausevic/be-ios-lunchify)| [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=fe-ios-lunchify)](https://github.com/amarCausevic/fe-ios-lunchify)| [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=amarCausevic)](https://github.com/amarCausevic/amarCausevic)
-| [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=AC-TRONIUS-DEMO)](https://github.com/amarCausevic/AC-TRONIUS-DEMO)| [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=BDD-Rest-API-Test-Framework)](https://github.com/amarCausevic/BDD-Rest-API-Test-Framework ) |[![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=AC-bdd-python-pytest)](https://github.com/amarCausevic/AC-bdd-python-pytest)
-| [![Readme Card](https://github-readme-stats-amars-projects-ef4cc7e4.vercel.app/api/pin/?username=amarCausevic&theme=radical&repo=github-readme-stats)](https://github.com/amarCausevic/github-readme-stats)| |
-
 - 🔭 I’m currently working on a simple project called pixvara which I am going to bring more news later on
 - 🌱 I’m currently learning full stack development of web-application
 - 👯 I’m looking to collaborate on everything and anything that is about web development and game development

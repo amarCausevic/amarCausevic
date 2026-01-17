@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </picture>
 </a>
 
-- 🔭 I’m currently working on a simple project called pixvara which I am going to bring more news later on
+- 🔭 I’m currently working on a simple project called pixvara which I am going to bring more news later or hit me up in DMs
 - 🌱 I’m currently learning full stack development of web-application
 - 👯 I’m looking to collaborate on everything and anything that is about web development and game development
 - 📫 How to reach me: via Github or LinkedIn profile that is seen on the profile

@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88dff189-6755-426c-bf63-c461f0d8e614" />
 
-Best regards,
-Amar Causevic ⚔️
+
 
 

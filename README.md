@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 “I'm not afraid of an army of lions led by a sheep; I'm afraid of an army of sheep led by a lion.”
 
+Kick ass🫡
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88dff189-6755-426c-bf63-c461f0d8e614" />
 
 
